@@ -16,6 +16,7 @@ type MaliciousFileInfo struct {
 	FileSha256   string
 	FileCreated  string
 	Description  string
+	Message      string
 }
 
 type ReportData struct {
